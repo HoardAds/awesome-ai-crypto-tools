@@ -15,14 +15,18 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Sora](https://openai.com/sora) - An AI model that creates videos from text prompts.
 - [Pika](https://pika.art) - An AI video generator for short clips and creative effects.
 - [HeyGen](https://www.heygen.com) - An AI video platform for avatars and voice-over videos.
-- [Synthesia](https://www.synthesia.io) - An AI video platform that turns text and documents into presenter videos with AI avatars.
+- [Synthesia](https://www.synthesia.io?via=mahagala) - An AI video platform that turns text and documents into presenter videos with AI avatars. [Review on HoardAds](https://hoardads.com/synthesia-review.html)
 
 ## AI Writing Tools
 
-- [Jasper](https://www.jasper.ai) - An AI writing assistant for marketing copy and long-form content.
+- [Jasper](https://www.jasper.ai) - An AI writing assistant for marketing copy and long-form content. [Review on HoardAds](https://hoardads.com/jasper-review.html)
 - [Grammarly](https://www.grammarly.com) - A writing assistant that checks grammar, clarity, and tone.
 - [Notion AI](https://www.notion.com/product/ai) - AI writing and summarising features inside Notion.
 - [Claude](https://claude.com) - An AI assistant for drafting, editing, and summarising text.
+
+## AI Meeting Tools
+
+- [Fireflies](https://fireflies.ai/?fpr=borjigin-630593) - An AI meeting assistant that records, transcribes, and summarizes meetings. [Review on HoardAds](https://hoardads.com/fireflies-review.html)
 
 ## Crypto Tools
 
@@ -36,7 +40,11 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 
 ## VPN & Privacy Tools
 
-- [NordVPN](https://nordvpn.com) - A VPN service that encrypts internet traffic and hides your IP address.
+See also: [Best VPN for Crypto 2026](https://hoardads.com/best-vpn-for-crypto-2026.html) and [VPN Checklist](https://hoardads.com/vpn-checklist.html)
+
+- [NordVPN](https://nordvpn.com) - A VPN service that encrypts internet traffic and hides your IP address. [Review on HoardAds](https://hoardads.com/nordvpn-review.html)
+- [Surfshark](https://surfshark.com) - A VPN service with fast servers and unlimited device connections. [Review on HoardAds](https://hoardads.com/surfshark-review.html)
+- [CyberGhost](https://www.cyberghostvpn.com) - A VPN service with servers optimized for streaming and privacy. [Review on HoardAds](https://hoardads.com/cyberghost-review.html)
 - [ExpressVPN](https://www.expressvpn.com) - A fast VPN service for privacy and secure browsing.
 - [Proton VPN](https://protonvpn.com) - A privacy-focused VPN from the makers of Proton Mail.
 - [Mullvad](https://mullvad.net) - A simple VPN service with a strong focus on privacy.
