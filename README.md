@@ -28,6 +28,17 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 
 - [Fireflies](https://fireflies.ai/?fpr=borjigin-630593) - An AI meeting assistant that records, transcribes, and summarizes meetings. [Review on HoardAds](https://hoardads.com/fireflies-review.html)
 
+## AI Agents
+
+### Muse
+
+Muse is Meta's personal AI agent, launched September 8, 2026. It is available in the United States, Canada, and Japan, on the web and as iOS, Android, and Mac apps. Your own agent on its own dedicated computer that stays with you between conversations — it can help with research, writing, and planning; build documents, pages, and apps; track goals; run scheduled checks; and keep a feed, ideas, and a library for you.
+
+- Join: https://muse.ai/join
+- Invite code: `BMTMKE`
+- How to redeem: first join, then within 48 hours after joining, in Muse go to Settings > Redeem token on mobile, or Settings > General > Usage > Redeem invite code on the web, enter `BMTMKE` and confirm. As described in the invite, redeeming within 48 hours after joining via Settings gives us each 1 billion Muse tokens. Offer terms are those shown on Muse's invite/redeem screen, and credit cannot be guaranteed — opening a link is not confirmation of redemption.
+- HoardAds page: https://hoardads.com/ai-agents.html
+
 ## Crypto Tools
 
 - [Binance](https://www.binance.com) - A large cryptocurrency exchange for buying, selling, and trading crypto.
