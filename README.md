@@ -15,6 +15,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Sora](https://openai.com/sora) - An AI model that creates videos from text prompts.
 - [Pika](https://pika.art) - An AI video generator for short clips and creative effects.
 - [HeyGen](https://www.heygen.com) - An AI video platform for avatars and voice-over videos.
+- [Synthesia](https://www.synthesia.io) - An AI video platform that turns text and documents into presenter videos with AI avatars.
 
 ## AI Writing Tools
 
@@ -30,6 +31,8 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Kraken](https://www.kraken.com) - A cryptocurrency exchange for spot trading and staking.
 - [MetaMask](https://metamask.io) - A popular wallet for storing crypto and using decentralised apps.
 - [Ledger](https://www.ledger.com) - A hardware wallet for keeping cryptocurrency offline.
+- [Trezor](https://trezor.io) - A hardware wallet that keeps cryptocurrency offline for self-custody.
+- [CoinGecko](https://www.coingecko.com) - A cryptocurrency price and market data platform tracking prices, market caps, and trading volume.
 
 ## VPN & Privacy Tools
 
