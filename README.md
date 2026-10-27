@@ -16,6 +16,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Pika](https://pika.art) - An AI video generator for short clips and creative effects.
 - [HeyGen](https://www.heygen.com) - An AI video platform for avatars and voice-over videos.
 - [Synthesia](https://www.synthesia.io?via=mahagala) - An AI video platform that turns text and documents into presenter videos with AI avatars. [Review on HoardAds](https://hoardads.com/synthesia-review.html)
+- [OpusClip](https://www.opus.pro/) - An AI video tool that turns long videos into short clips with captions.
 
 ## AI Writing Tools
 
@@ -23,6 +24,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Grammarly](https://www.grammarly.com) - A writing assistant that checks grammar, clarity, and tone.
 - [Notion AI](https://www.notion.com/product/ai) - AI writing and summarising features inside Notion.
 - [Claude](https://claude.com) - An AI assistant for drafting, editing, and summarising text.
+- [Perplexity](https://www.perplexity.ai/) - An AI-powered answer engine that searches the web and cites sources.
 
 ## AI Meeting Tools
 
@@ -48,6 +50,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Ledger](https://www.ledger.com) - A hardware wallet for keeping cryptocurrency offline.
 - [Trezor](https://trezor.io) - A hardware wallet that keeps cryptocurrency offline for self-custody.
 - [CoinGecko](https://www.coingecko.com) - A cryptocurrency price and market data platform tracking prices, market caps, and trading volume.
+- [TradingView](https://www.tradingview.com/) - A charting and market data platform for crypto, stocks, and other markets.
 
 ## VPN & Privacy Tools
 
