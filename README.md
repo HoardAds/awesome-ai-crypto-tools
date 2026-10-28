@@ -8,6 +8,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Cursor](https://cursor.com) - An AI-powered code editor built for working with large codebases.
 - [Claude](https://claude.com) - An AI assistant that can help with coding, analysis, and writing.
 - [ChatGPT](https://chatgpt.com) - A conversational AI assistant for coding help, debugging, and explanations.
+- [Tabnine](https://www.tabnine.com) - An AI code completion assistant that suggests code as you type across many languages and IDEs.
 
 ## AI Video Tools
 
@@ -17,6 +18,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [HeyGen](https://www.heygen.com) - An AI video platform for avatars and voice-over videos.
 - [Synthesia](https://www.synthesia.io?via=mahagala) - An AI video platform that turns text and documents into presenter videos with AI avatars. [Review on HoardAds](https://hoardads.com/synthesia-review.html)
 - [OpusClip](https://www.opus.pro/) - An AI video tool that turns long videos into short clips with captions.
+- [Descript](https://www.descript.com) - An AI video and audio editor that lets you edit media by editing its transcript.
 
 ## AI Writing Tools
 
@@ -51,6 +53,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Trezor](https://trezor.io) - A hardware wallet that keeps cryptocurrency offline for self-custody.
 - [CoinGecko](https://www.coingecko.com) - A cryptocurrency price and market data platform tracking prices, market caps, and trading volume.
 - [TradingView](https://www.tradingview.com/) - A charting and market data platform for crypto, stocks, and other markets.
+- [Phantom](https://phantom.com) - A self-custody wallet for managing crypto assets and NFTs across supported blockchains.
 
 ## VPN & Privacy Tools
 
