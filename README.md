@@ -9,6 +9,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Claude](https://claude.com) - An AI assistant that can help with coding, analysis, and writing.
 - [ChatGPT](https://chatgpt.com) - A conversational AI assistant for coding help, debugging, and explanations.
 - [Tabnine](https://www.tabnine.com) - An AI code completion assistant that suggests code as you type across many languages and IDEs.
+- [Replit](https://replit.com) - A browser-based coding platform with an AI agent that builds apps from natural-language promts.
 
 ## AI Video Tools
 
@@ -19,6 +20,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Synthesia](https://www.synthesia.io?via=mahagala) - An AI video platform that turns text and documents into presenter videos with AI avatars. [Review on HoardAds](https://hoardads.com/synthesia-review.html)
 - [OpusClip](https://www.opus.pro/) - An AI video tool that turns long videos into short clips with captions.
 - [Descript](https://www.descript.com) - An AI video and audio editor that lets you edit media by editing its transcript.
+- [Kapwing](https://www.kapwing.com) - A browser-based video editor with AI tools for subtitles, trimming, and short clips.
 
 ## AI Writing Tools
 
@@ -54,6 +56,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [CoinGecko](https://www.coingecko.com) - A cryptocurrency price and market data platform tracking prices, market caps, and trading volume.
 - [TradingView](https://www.tradingview.com/) - A charting and market data platform for crypto, stocks, and other markets.
 - [Phantom](https://phantom.com) - A self-custody wallet for managing crypto assets and NFTs across supported blockchains.
+- [Uniswap](https://uniswap.org) - A decentralized exchange for swapping tokens without a central order book.
 
 ## VPN & Privacy Tools
 
