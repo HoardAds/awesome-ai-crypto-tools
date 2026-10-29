@@ -9,7 +9,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Claude](https://claude.com) - An AI assistant that can help with coding, analysis, and writing.
 - [ChatGPT](https://chatgpt.com) - A conversational AI assistant for coding help, debugging, and explanations.
 - [Tabnine](https://www.tabnine.com) - An AI code completion assistant that suggests code as you type across many languages and IDEs.
-- [Replit](https://replit.com) - A browser-based coding platform with an AI agent that builds apps from natural-language promts.
+- [Replit](https://replit.com) - A browser-based coding platform with an AI agent that builds apps from natural-language prompts.
 
 ## AI Video Tools
 
