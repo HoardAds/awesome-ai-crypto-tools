@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # HoardAds - Awesome AI & Crypto Tools
 
 A curated list of AI and crypto tools, maintained by HoardAds. Full directory and reviews at https://hoardads.com
