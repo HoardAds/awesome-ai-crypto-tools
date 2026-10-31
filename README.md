@@ -11,6 +11,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Tabnine](https://www.tabnine.com) - An AI code completion assistant that suggests code as you type across many languages and IDEs.
 - [Replit](https://replit.com) - A browser-based coding platform with an AI agent that builds apps from natural-language prompts.
 - [Windsurf](https://codeium.com/windsurf) - An AI-powered code editor with an agentic coding assistant for building and editing software.
+- - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - An AI coding assistant from AWS that suggests code, explains codebases, and helps with debugging and testing in IDEs.
 
 ## AI Video Tools
 
@@ -31,6 +32,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Claude](https://claude.ai) - An AI assistant for drafting, editing, and summarising text.
 - [Perplexity](https://www.perplexity.ai/) - An AI-powered answer engine that searches the web and cites sources.
 - [QuillBot](https://quillbot.com) - An AI writing tool for paraphrasing, grammar checking, and summarizing text.
+- - [Copy.ai](https://www.copy.ai/) - An AI writing platform for marketing copy, blog posts, and sales content with brand voice templates.
 
 ## AI Meeting Tools
 
@@ -60,6 +62,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Phantom](https://phantom.app) - A self-custody wallet for managing crypto assets and NFTs across supported blockchains.
 - [Uniswap](https://uniswap.org) - A decentralized exchange for swapping tokens without a central order book.
 - [CoinMarketCap](https://coinmarketcap.com) - A cryptocurrency market data platform tracking prices, market capitalizations, and rankings.
+- - [Bybit](https://www.bybit.com/) - A cryptocurrency exchange for spot and derivatives trading.
 
 ## VPN & Privacy Tools
 
