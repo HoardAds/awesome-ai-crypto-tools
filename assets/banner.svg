@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="HoardAds — Awesome AI and Crypto Tools">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#1b2432"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f5c542"/>
+      <stop offset="1" stop-color="#f08c1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="6" fill="url(#accent)"/>
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+    <text x="640" y="138" font-size="76" font-weight="700" fill="#ffffff">Hoard<tspan fill="#f5c542">Ads</tspan></text>
+    <text x="640" y="200" font-size="40" font-weight="600" fill="#e6edf3">Awesome AI &amp; Crypto Tools</text>
+    <text x="640" y="252" font-size="24" fill="#9aa7b4">A curated list of AI and crypto tools — reviewed by humans, updated daily.</text>
+  </g>
+</svg>
