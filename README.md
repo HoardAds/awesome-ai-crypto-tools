@@ -1,10 +1,34 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="HoardAds — Awesome AI & Crypto Tools" width="100%">
+</p>
 
 # HoardAds - Awesome AI & Crypto Tools
 
+> A hand-picked list of the AI and crypto tools actually worth your time — reviewed by humans, updated daily.
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/HoardAds/awesome-ai-crypto-tools?style=social)](https://github.com/HoardAds/awesome-ai-crypto-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HoardAds/awesome-ai-crypto-tools?style=social)](https://github.com/HoardAds/awesome-ai-crypto-tools/forks)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A curated list of AI and crypto tools, maintained by HoardAds. Full directory and reviews at https://hoardads.com
 
+## Contents
+
+- [AI Coding Tools](#ai-coding-tools)
+- [AI Video Tools](#ai-video-tools)
+- [AI Writing Tools](#ai-writing-tools)
+- [AI Meeting Tools](#ai-meeting-tools)
+- [AI Agents](#ai-agents)
+- [Crypto Tools](#crypto-tools)
+- [VPN & Privacy Tools](#vpn--privacy-tools)
+- [Disclosure](#disclosure)
+- [Contributing](#contributing)
+- [Star this repo](#star-this-repo)
+
 ## AI Coding Tools
+
+*Ship faster with an AI pair programmer looking over your shoulder.*
 
 - [GitHub Copilot](https://github.com/features/copilot) - An AI pair programmer that suggests code as you type.
 - [Cursor](https://cursor.com) - An AI-powered code editor built for working with large codebases.
@@ -18,6 +42,8 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 
 ## AI Video Tools
 
+*Text in, video out — the new creative stack.*
+
 - [Runway](https://runwayml.com) - A creative platform for AI-generated and edited video.
 - [Sora](https://openai.com/sora) - An AI model that creates videos from text prompts.
 - [Pika](https://pika.art) - An AI video generator for short clips and creative effects.
@@ -28,6 +54,8 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Kapwing](https://www.kapwing.com) - A browser-based video editor with AI tools for subtitles, trimming, and short clips.
 
 ## AI Writing Tools
+
+*Draft, polish and research at machine speed — in your voice.*
 
 - [Jasper](https://www.jasper.ai) - An AI writing assistant for marketing copy and long-form content. [Review on HoardAds](https://hoardads.com/jasper-review)
 - [Grammarly](https://www.grammarly.com) - A writing assistant that checks grammar, clarity, and tone.
@@ -40,9 +68,13 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 
 ## AI Meeting Tools
 
+*Meetings that take their own notes.*
+
 - [Fireflies](https://fireflies.ai/?fpr=borjigin-630593) - An AI meeting assistant that records, transcribes, and summarizes meetings. [Review on HoardAds](https://hoardads.com/fireflies-review)
 
 ## AI Agents
+
+*Agents that keep working while you're away.*
 
 ### Muse
 
@@ -54,6 +86,8 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - HoardAds page: https://hoardads.com/ai-agents
 
 ## Crypto Tools
+
+*Trade, track and self-custody without the noise.*
 
 - [Binance](https://www.binance.com) - A large cryptocurrency exchange for buying, selling, and trading crypto.
 - [Coinbase](https://www.coinbase.com) - A beginner-friendly platform for buying and storing cryptocurrency.
@@ -71,6 +105,8 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 
 ## VPN & Privacy Tools
 
+*Mainstream, audited privacy tools — no sketchy freebies.*
+
 See also: [Best VPN for Crypto 2026](https://hoardads.com/best-vpn-for-crypto-2026) and [VPN Checklist](https://hoardads.com/vpn-checklist)
 
 - [NordVPN](https://nordvpn.com) - A VPN service that encrypts internet traffic and hides your IP address. [Review on HoardAds](https://hoardads.com/nordvpn-review)
@@ -87,4 +123,8 @@ Some links may be affiliate links. HoardAds may earn a commission at no extra co
 
 ## Contributing
 
-Suggestions welcome via Issues.
+Found a tool we're missing, or spotted a dead link? Suggestions are welcome — please read [CONTRIBUTING.md](CONTRIBUTING.md) for the format, or open a [tool suggestion](https://github.com/HoardAds/awesome-ai-crypto-tools/issues/new/choose) and we'll take a look.
+
+## Star this repo
+
+If this list saved you time, a ⭐ helps other people find it — and keeps us motivated to keep it current. The full directory and in-depth reviews live at [hoardads.com](https://hoardads.com).
