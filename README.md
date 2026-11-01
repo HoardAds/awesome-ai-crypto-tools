@@ -50,6 +50,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Pika](https://pika.art) - An AI video generator for short clips and creative effects.
 - [HeyGen](https://www.heygen.com) - An AI video platform for avatars and voice-over videos.
 - [Synthesia](https://www.synthesia.io?via=mahagala) - An AI video platform that turns text and documents into presenter videos with AI avatars. [Review on HoardAds](https://hoardads.com/synthesia-review)
+- [Fliki](https://fliki.ai?via=mahgal) - A text-to-video tool that turns ideas, scripts and blog posts into narrated videos with up to 2,000+ AI voices in 80+ languages.
 - [OpusClip](https://www.opus.pro/) - An AI video tool that turns long videos into short clips with captions.
 - [Descript](https://www.descript.com) - An AI video and audio editor that lets you edit media by editing its transcript.
 - [Kapwing](https://www.kapwing.com) - A browser-based video editor with AI tools for subtitles, trimming, and short clips.
