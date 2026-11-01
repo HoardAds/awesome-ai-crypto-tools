@@ -39,6 +39,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Windsurf](https://codeium.com/windsurf) - An AI-powered code editor with an agentic coding assistant for building and editing software.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - An AI coding assistant from AWS that suggests code, explains codebases, and helps with debugging and testing in IDEs.
 - [Continue](https://continue.dev) - An open-source AI coding assistant for VS Code and JetBrains that offers code completion, chat, and agent mode with models of your choice.
+- [Lil Nicky AI](https://littlenova5.gumroad.com) - Installable skill packs (SKILL.md files) that turn Claude Code, ChatGPT and 40+ other AI tools into specialised workers; six skills per pack, $19 per pack or $29 for the complete bundle.
 
 ## AI Video Tools
 
