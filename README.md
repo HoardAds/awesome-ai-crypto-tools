@@ -41,6 +41,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Continue](https://continue.dev) - An open-source AI coding assistant for VS Code and JetBrains that offers code completion, chat, and agent mode with models of your choice.
 - [Lil Nicky AI](https://gumroad.com/a/835727715/dxryi) - Installable skill packs (SKILL.md files) that turn Claude Code, ChatGPT and 40+ other AI tools into specialised workers; six skills per pack, $19 per pack or $29 for the complete bundle.
 
+- [Aider](https://aider.chat) - An open-source AI pair programming tool that runs in the terminal and edits code in a local git repository.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -54,6 +55,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [OpusClip](https://www.opus.pro/) - An AI video tool that turns long videos into short clips with captions.
 - [Descript](https://www.descript.com) - An AI video and audio editor that lets you edit media by editing its transcript.
 - [Kapwing](https://www.kapwing.com) - A browser-based video editor with AI tools for subtitles, trimming, and short clips.
+- [InVideo](https://invideo.io) - An AI video tool that turns text prompts and scripts into finished videos with voiceovers, captions, and music.
 
 ## AI Writing Tools
 
@@ -104,6 +106,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [CoinMarketCap](https://coinmarketcap.com) - A cryptocurrency market data platform tracking prices, market capitalizations, and rankings.
 - [Bybit](https://www.bybit.com/) - A cryptocurrency exchange for spot and derivatives trading.
 - [OKX](https://www.okx.com) - A large cryptocurrency exchange for spot and derivatives trading with a built-in Web3 wallet.
+- [Trust Wallet](https://trustwallet.com) - A self-custody crypto wallet for mobile and browser that stores, swaps, and stakes crypto across 100+ blockchains.
 
 ## VPN & Privacy Tools
 
