@@ -107,6 +107,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Bybit](https://www.bybit.com/) - A cryptocurrency exchange for spot and derivatives trading.
 - [OKX](https://www.okx.com) - A large cryptocurrency exchange for spot and derivatives trading with a built-in Web3 wallet.
 - [Trust Wallet](https://trustwallet.com) - A self-custody crypto wallet for mobile and browser that stores, swaps, and stakes crypto across 100+ blockchains.
+- [Bitget](https://partner.bitget.ninja/bg/HDUJAM) - Spot and futures exchange with copy trading, tokenized US stocks and gold products.
 
 ## VPN & Privacy Tools
 
