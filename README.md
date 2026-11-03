@@ -42,6 +42,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Lil Nicky AI](https://gumroad.com/a/835727715/dxryi) - Installable skill packs (SKILL.md files) that turn Claude Code, ChatGPT and 40+ other AI tools into specialised workers; six skills per pack, $19 per pack or $29 for the complete bundle.
 
 - [Aider](https://aider.chat) - An open-source AI pair programming tool that runs in the terminal and edits code in a local git repository.
+- [Cline](https://cline.bot) - An open-source AI coding assistant for VS Code that reads files, writes code, runs commands, and completes coding tasks.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -56,6 +57,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Descript](https://www.descript.com) - An AI video and audio editor that lets you edit media by editing its transcript.
 - [Kapwing](https://www.kapwing.com) - A browser-based video editor with AI tools for subtitles, trimming, and short clips.
 - [InVideo](https://invideo.io) - An AI video tool that turns text prompts and scripts into finished videos with voiceovers, captions, and music.
+- [Luma](https://lumalabs.ai) - An AI video generator that turns text prompts and images into cinematic video clips for creators and marketers.
 
 ## AI Writing Tools
 
@@ -108,6 +110,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [OKX](https://www.okx.com) - A large cryptocurrency exchange for spot and derivatives trading with a built-in Web3 wallet.
 - [Trust Wallet](https://trustwallet.com) - A self-custody crypto wallet for mobile and browser that stores, swaps, and stakes crypto across 100+ blockchains.
 - [Bitget](https://partner.bitget.ninja/bg/HDUJAM) - Spot and futures exchange with copy trading, tokenized US stocks and gold products.
+- [Exodus](https://www.exodus.com) - A self-custody crypto wallet for desktop and mobile that lets users send, receive, swap, and manage digital assets with full control of their private keys.
 
 ## VPN & Privacy Tools
 
