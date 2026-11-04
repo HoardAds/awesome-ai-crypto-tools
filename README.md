@@ -43,6 +43,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 
 - [Aider](https://aider.chat) - An open-source AI pair programming tool that runs in the terminal and edits code in a local git repository.
 - [Cline](https://cline.bot) - An open-source AI coding assistant for VS Code that reads files, writes code, runs commands, and completes coding tasks.
+- [Cody](https://sourcegraph.com/cody) - An AI coding assistant that uses codebase context to help developers understand, write, and fix code.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -71,6 +72,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [QuillBot](https://quillbot.com) - An AI writing tool for paraphrasing, grammar checking, and summarizing text.
 - [Copy.ai](https://www.copy.ai/) - An AI writing platform for marketing copy, blog posts, and sales content with brand voice templates.
 - [Wordtune](https://www.wordtune.com) - An AI writing assistant that rewrites sentences, adjusts tone, and checks grammar to improve clarity.
+- [Sudowrite](https://www.sudowrite.com) - An AI writing partner for fiction writers that helps draft, rewrite, and finish novels while keeping their own voice.
 
 ## AI Meeting Tools
 
@@ -111,6 +113,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Trust Wallet](https://trustwallet.com) - A self-custody crypto wallet for mobile and browser that stores, swaps, and stakes crypto across 100+ blockchains.
 - [Bitget](https://partner.bitget.ninja/bg/HDUJAM) - Spot and futures exchange with copy trading, tokenized US stocks and gold products.
 - [Exodus](https://www.exodus.com) - A self-custody crypto wallet for desktop and mobile that lets users send, receive, swap, and manage digital assets with full control of their private keys.
+- [DefiLlama](https://defillama.com) - A DeFi data platform tracking total value locked, yields, fees, and stablecoins across chains and protocols.
 
 ## VPN & Privacy Tools
 
