@@ -45,6 +45,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Cline](https://cline.bot) - An open-source AI coding assistant for VS Code that reads files, writes code, runs commands, and completes coding tasks.
 - [Cody](https://sourcegraph.com/cody) - An AI coding assistant that uses codebase context to help developers understand, write, and fix code.
 - [CodeRabbit](https://www.coderabbit.ai) - An AI code review tool for GitHub and GitLab pull requests that uses codebase context to help developers and teams review code.
+- [Devin](https://devin.ai) - An autonomous AI software engineer from Cognition that plans, writes, tests, and ships code for developers and engineering teams.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -61,6 +62,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [InVideo](https://invideo.io) - An AI video tool that turns text prompts and scripts into finished videos with voiceovers, captions, and music.
 - [Luma](https://lumalabs.ai) - An AI video generator that turns text prompts and images into cinematic video clips for creators and marketers.
 - [VEED](https://www.veed.io) - A browser-based AI video editor for creators and marketers with auto subtitles, audio cleanup, and short-clip creation.
+- [Pictory](https://pictory.ai) - An AI video tool that turns scripts, blog posts, and long videos into captioned videos with AI voices for creators and marketers.
 
 ## AI Writing Tools
 
@@ -118,6 +120,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [DefiLlama](https://defillama.com) - A DeFi data platform tracking total value locked, yields, fees, and stablecoins across chains and protocols.
 - [Etherscan](https://etherscan.io) - An Ethereum blockchain explorer for searching transactions, wallet addresses, and smart contracts.
 
+- [Solscan](https://solscan.io) - A Solana blockchain explorer for searching transactions, wallets, tokens, and NFTs for Solana users and developers.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
