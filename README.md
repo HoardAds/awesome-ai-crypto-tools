@@ -97,6 +97,8 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - How to redeem: first join, then within 48 hours after joining, in Muse go to Settings > Redeem token on mobile, or Settings > General > Usage > Redeem invite code on the web, enter `BMTMKE` and confirm. As described in the invite, redeeming within 48 hours after joining via Settings gives us each 1 billion Muse tokens. Offer terms are those shown on Muse's invite/redeem screen, and credit cannot be guaranteed — opening a link is not confirmation of redemption.
 - HoardAds page: https://hoardads.com/ai-agents
 
+- [DisconfirmAI](https://disconfirmai.com/en) - An investment research platform that seeks disconfirming evidence before conviction, with Reading, Research, Radar, and an investment framework.
+
 ## Crypto Tools
 
 *Trade, track and self-custody without the noise.*
