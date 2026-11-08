@@ -46,6 +46,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Cody](https://sourcegraph.com/cody) - An AI coding assistant that uses codebase context to help developers understand, write, and fix code.
 - [CodeRabbit](https://www.coderabbit.ai) - An AI code review tool for GitHub and GitLab pull requests that uses codebase context to help developers and teams review code.
 - [Devin](https://devin.ai) - An autonomous AI software engineer from Cognition that plans, writes, tests, and ships code for developers and engineering teams.
+- [Augment Code](https://www.augmentcode.com) - An AI coding platform with a powerful context engine built for large, complex codebases and professional software teams.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -63,6 +64,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Luma](https://lumalabs.ai) - An AI video generator that turns text prompts and images into cinematic video clips for creators and marketers.
 - [VEED](https://www.veed.io) - A browser-based AI video editor for creators and marketers with auto subtitles, audio cleanup, and short-clip creation.
 - [Pictory](https://pictory.ai) - An AI video tool that turns scripts, blog posts, and long videos into captioned videos with AI voices for creators and marketers.
+- [Kling](https://klingai.com) - Kuaishou's AI video generation platform that creates high-quality videos from text prompts and images.
 
 ## AI Writing Tools
 
@@ -121,6 +123,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Etherscan](https://etherscan.io) - An Ethereum blockchain explorer for searching transactions, wallet addresses, and smart contracts.
 
 - [Solscan](https://solscan.io) - A Solana blockchain explorer for searching transactions, wallets, tokens, and NFTs for Solana users and developers.
+- [BscScan](https://bscscan.com) - A block explorer and analytics platform for BNB Smart Chain, with transactions, tokens and address lookup.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
