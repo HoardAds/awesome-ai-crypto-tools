@@ -48,6 +48,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Devin](https://devin.ai) - An autonomous AI software engineer from Cognition that plans, writes, tests, and ships code for developers and engineering teams.
 - [Augment Code](https://www.augmentcode.com) - An AI coding platform with a powerful context engine built for large, complex codebases and professional software teams.
 - [agent-qa](https://vostride.com) - An open source QA agent for developers testing web, Android and iOS apps, with memidex memory, reviewable self-improvement and run evidence.
+- [Warp](https://warp.dev) - An AI-powered terminal featuring an agent that writes code, runs commands, and debugs for developers via natural language.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -66,6 +67,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [VEED](https://www.veed.io) - A browser-based AI video editor for creators and marketers with auto subtitles, audio cleanup, and short-clip creation.
 - [Pictory](https://pictory.ai) - An AI video tool that turns scripts, blog posts, and long videos into captioned videos with AI voices for creators and marketers.
 - [Kling](https://klingai.com) - Kuaishou's AI video generation platform that creates high-quality videos from text prompts and images.
+- [ReelAI](https://tryreelai.com) - Turns photos or text prompts into short vertical videos for TikTok and Instagram creators.
 
 ## AI Writing Tools
 
@@ -127,6 +129,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 
 - [Solscan](https://solscan.io) - A Solana blockchain explorer for searching transactions, wallets, tokens, and NFTs for Solana users and developers.
 - [BscScan](https://bscscan.com) - A block explorer and analytics platform for BNB Smart Chain, with transactions, tokens and address lookup.
+- [1inch](https://1inch.com) - A non-custodial DEX aggregator that finds the best token swap rates across multiple networks directly from your wallet.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
