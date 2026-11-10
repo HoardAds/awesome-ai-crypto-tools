@@ -49,6 +49,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Augment Code](https://www.augmentcode.com) - An AI coding platform with a powerful context engine built for large, complex codebases and professional software teams.
 - [agent-qa](https://vostride.com) - An open source QA agent for developers testing web, Android and iOS apps, with memidex memory, reviewable self-improvement and run evidence.
 - [Warp](https://warp.dev) - An AI-powered terminal featuring an agent that writes code, runs commands, and debugs for developers via natural language.
+- [JetBrains AI](https://www.jetbrains.com/ai/) - An AI-powered coding assistant built into JetBrains IDEs that helps developers write, understand, and improve code.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -82,6 +83,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Copy.ai](https://www.copy.ai/) - An AI writing platform for marketing copy, blog posts, and sales content with brand voice templates.
 - [Wordtune](https://www.wordtune.com) - An AI writing assistant that rewrites sentences, adjusts tone, and checks grammar to improve clarity.
 - [Sudowrite](https://www.sudowrite.com) - An AI writing partner for fiction writers that helps draft, rewrite, and finish novels while keeping their own voice.
+- [Writesonic](https://writesonic.com) - An AI writing platform for marketers and content teams that generates SEO content, blogs, ads, and product descriptions.
 
 ## AI Meeting Tools
 
@@ -130,6 +132,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Solscan](https://solscan.io) - A Solana blockchain explorer for searching transactions, wallets, tokens, and NFTs for Solana users and developers.
 - [BscScan](https://bscscan.com) - A block explorer and analytics platform for BNB Smart Chain, with transactions, tokens and address lookup.
 - [1inch](https://1inch.com) - A non-custodial DEX aggregator that finds the best token swap rates across multiple networks directly from your wallet.
+- [Gemini](https://www.gemini.com) - A regulated US cryptocurrency exchange and custodian for buying, selling, and storing crypto.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
