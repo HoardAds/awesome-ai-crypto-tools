@@ -50,6 +50,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [agent-qa](https://vostride.com) - An open source QA agent for developers testing web, Android and iOS apps, with memidex memory, reviewable self-improvement and run evidence.
 - [Warp](https://warp.dev) - An AI-powered terminal featuring an agent that writes code, runs commands, and debugs for developers via natural language.
 - [JetBrains AI](https://www.jetbrains.com/ai/) - An AI-powered coding assistant built into JetBrains IDEs that helps developers write, understand, and improve code.
+- [Zed](https://zed.dev) - Zed is a high-performance, open-source code editor built in Rust, featuring built-in AI agents for developers.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -69,6 +70,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Pictory](https://pictory.ai) - An AI video tool that turns scripts, blog posts, and long videos into captioned videos with AI voices for creators and marketers.
 - [Kling](https://klingai.com) - Kuaishou's AI video generation platform that creates high-quality videos from text prompts and images.
 - [ReelAI](https://tryreelai.com) - Turns photos or text prompts into short vertical videos for TikTok and Instagram creators.
+- [Hailuo AI](https://hailuoai.video) - Hailuo AI, by MiniMax, turns text prompts and images into short videos with sound for creators.
 
 ## AI Writing Tools
 
@@ -133,6 +135,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [BscScan](https://bscscan.com) - A block explorer and analytics platform for BNB Smart Chain, with transactions, tokens and address lookup.
 - [1inch](https://1inch.com) - A non-custodial DEX aggregator that finds the best token swap rates across multiple networks directly from your wallet.
 - [Gemini](https://www.gemini.com) - A regulated US cryptocurrency exchange and custodian for buying, selling, and storing crypto.
+- [DEX Screener](https://dexscreener.com) - DEX Screener offers free, real-time charting and analytics for DeFi traders tracking tokens on decentralized exchanges across multiple blockchains.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
