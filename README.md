@@ -87,6 +87,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Wordtune](https://www.wordtune.com) - An AI writing assistant that rewrites sentences, adjusts tone, and checks grammar to improve clarity.
 - [Sudowrite](https://www.sudowrite.com) - An AI writing partner for fiction writers that helps draft, rewrite, and finish novels while keeping their own voice.
 - [Writesonic](https://writesonic.com) - An AI writing platform for marketers and content teams that generates SEO content, blogs, ads, and product descriptions.
+- [StudyArena](https://studyarena.com) - A study tool with free three-model comparisons of writing feedback and explanations.
 
 ## AI Meeting Tools
 
