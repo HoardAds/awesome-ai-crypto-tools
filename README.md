@@ -22,6 +22,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [AI Agents](#ai-agents)
 - [Crypto Tools](#crypto-tools)
 - [VPN & Privacy Tools](#vpn--privacy-tools)
+- [Free Resources](#free-resources)
 - [Disclosure](#disclosure)
 - [Contributing](#contributing)
 - [Star this repo](#star-this-repo)
@@ -149,6 +150,13 @@ See also: [Best VPN for Crypto 2026](https://hoardads.com/best-vpn-for-crypto-20
 - [Proton VPN](https://protonvpn.com) - A privacy-focused VPN from the makers of Proton Mail.
 - [Mullvad](https://mullvad.net) - A simple VPN service with a strong focus on privacy.
 - [Brave](https://brave.com) - A privacy-focused web browser with built-in tracker blocking.
+
+## Free Resources
+
+*Building on a budget? Start with what is free.*
+
+- [Awesome Free AI Resources](https://github.com/HoardAds/awesome-free-ai-resources) - Our companion list of hand-verified free tiers, startup credits (up to $350K) and genuinely free tools for AI builders and developers.
+- [Free Resources Center](https://hoardads.com/free-resources/) - The full, maintained version on HoardAds: every offer with its concrete limits, card requirements and eligibility, re-verified regularly.
 
 ## Disclosure
 
