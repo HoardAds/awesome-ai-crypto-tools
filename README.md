@@ -52,6 +52,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Warp](https://warp.dev) - An AI-powered terminal featuring an agent that writes code, runs commands, and debugs for developers via natural language.
 - [JetBrains AI](https://www.jetbrains.com/ai/) - An AI-powered coding assistant built into JetBrains IDEs that helps developers write, understand, and improve code.
 - [Zed](https://zed.dev) - Zed is a high-performance, open-source code editor built in Rust, featuring built-in AI agents for developers.
+- [Bolt.new](https://bolt.new) - An AI app builder by StackBlitz that turns plain-language prompts into working full-stack web apps directly in the browser, with no install required.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -72,6 +73,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Kling](https://klingai.com) - Kuaishou's AI video generation platform that creates high-quality videos from text prompts and images.
 - [ReelAI](https://tryreelai.com) - Turns photos or text prompts into short vertical videos for TikTok and Instagram creators.
 - [Hailuo AI](https://hailuoai.video) - Hailuo AI, by MiniMax, turns text prompts and images into short videos with sound for creators.
+- [Krea](https://www.krea.ai) - An AI creative platform that generates images and videos from text prompts and images using many leading AI models in one subscription, for creators and designers.
 
 ## AI Writing Tools
 
@@ -137,6 +139,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [1inch](https://1inch.com) - A non-custodial DEX aggregator that finds the best token swap rates across multiple networks directly from your wallet.
 - [Gemini](https://www.gemini.com) - A regulated US cryptocurrency exchange and custodian for buying, selling, and storing crypto.
 - [DEX Screener](https://dexscreener.com) - DEX Screener offers free, real-time charting and analytics for DeFi traders tracking tokens on decentralized exchanges across multiple blockchains.
+- [Jupiter](https://jup.ag) - A Solana DEX aggregator that routes token swaps across Solana DEXs to find the best price, with limit and DCA orders for traders.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
