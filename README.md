@@ -53,6 +53,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [JetBrains AI](https://www.jetbrains.com/ai/) - An AI-powered coding assistant built into JetBrains IDEs that helps developers write, understand, and improve code.
 - [Zed](https://zed.dev) - Zed is a high-performance, open-source code editor built in Rust, featuring built-in AI agents for developers.
 - [Bolt.new](https://bolt.new) - An AI app builder by StackBlitz that turns plain-language prompts into working full-stack web apps directly in the browser, with no install required.
+- [Gemini Code Assist](https://cloud.google.com/products/gemini-code-assist) - Google's Gemini Code Assist is a free AI coding assistant for VS Code and JetBrains, offering code completion, chat, and code reviews.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -74,6 +75,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [ReelAI](https://tryreelai.com) - Turns photos or text prompts into short vertical videos for TikTok and Instagram creators.
 - [Hailuo AI](https://hailuoai.video) - Hailuo AI, by MiniMax, turns text prompts and images into short videos with sound for creators.
 - [Krea](https://www.krea.ai) - An AI creative platform that generates images and videos from text prompts and images using many leading AI models in one subscription, for creators and designers.
+- [Vidu](https://www.vidu.com) - Vidu is Shengshu's AI video generator that creates up to 16-second, 1080p videos from text or images with character consistency for creators.
 
 ## AI Writing Tools
 
@@ -140,6 +142,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Gemini](https://www.gemini.com) - A regulated US cryptocurrency exchange and custodian for buying, selling, and storing crypto.
 - [DEX Screener](https://dexscreener.com) - DEX Screener offers free, real-time charting and analytics for DeFi traders tracking tokens on decentralized exchanges across multiple blockchains.
 - [Jupiter](https://jup.ag) - A Solana DEX aggregator that routes token swaps across Solana DEXs to find the best price, with limit and DCA orders for traders.
+- [KuCoin](https://www.kucoin.com) - KuCoin is an exchange founded in 2017 offering crypto traders spot and futures trading on 700+ listed tokens.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
