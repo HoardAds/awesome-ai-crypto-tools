@@ -54,6 +54,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Zed](https://zed.dev) - Zed is a high-performance, open-source code editor built in Rust, featuring built-in AI agents for developers.
 - [Bolt.new](https://bolt.new) - An AI app builder by StackBlitz that turns plain-language prompts into working full-stack web apps directly in the browser, with no install required.
 - [Gemini Code Assist](https://cloud.google.com/products/gemini-code-assist) - Google's Gemini Code Assist is a free AI coding assistant for VS Code and JetBrains, offering code completion, chat, and code reviews.
+- [Codeium](https://codeium.com) - Codeium is a free AI coding assistant offering code autocomplete and in-editor chat for developers across many editors and languages.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -91,6 +92,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Wordtune](https://www.wordtune.com) - An AI writing assistant that rewrites sentences, adjusts tone, and checks grammar to improve clarity.
 - [Sudowrite](https://www.sudowrite.com) - An AI writing partner for fiction writers that helps draft, rewrite, and finish novels while keeping their own voice.
 - [Writesonic](https://writesonic.com) - An AI writing platform for marketers and content teams that generates SEO content, blogs, ads, and product descriptions.
+- [Rytr](https://rytr.me) - Rytr is an AI writing assistant that generates marketing copy, emails, blog sections, and product descriptions from 40+ templates, with a free plan.
 
 ## AI Meeting Tools
 
@@ -143,6 +145,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [DEX Screener](https://dexscreener.com) - DEX Screener offers free, real-time charting and analytics for DeFi traders tracking tokens on decentralized exchanges across multiple blockchains.
 - [Jupiter](https://jup.ag) - A Solana DEX aggregator that routes token swaps across Solana DEXs to find the best price, with limit and DCA orders for traders.
 - [KuCoin](https://www.kucoin.com) - KuCoin is an exchange founded in 2017 offering crypto traders spot and futures trading on 700+ listed tokens.
+- [Crypto.com](https://crypto.com) - Crypto.com is a cryptocurrency exchange and app for buying, selling, and trading 400+ cryptocurrencies, with spot trading and automated trading bots.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
