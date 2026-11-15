@@ -55,6 +55,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Bolt.new](https://bolt.new) - An AI app builder by StackBlitz that turns plain-language prompts into working full-stack web apps directly in the browser, with no install required.
 - [Gemini Code Assist](https://cloud.google.com/products/gemini-code-assist) - Google's Gemini Code Assist is a free AI coding assistant for VS Code and JetBrains, offering code completion, chat, and code reviews.
 - [Codeium](https://codeium.com) - Codeium is a free AI coding assistant offering code autocomplete and in-editor chat for developers across many editors and languages.
+- [Blackbox AI](https://www.blackbox.ai) - An AI coding assistant that helps developers write, debug, and explain code across many IDEs and the terminal.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -77,6 +78,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Hailuo AI](https://hailuoai.video) - Hailuo AI, by MiniMax, turns text prompts and images into short videos with sound for creators.
 - [Krea](https://www.krea.ai) - An AI creative platform that generates images and videos from text prompts and images using many leading AI models in one subscription, for creators and designers.
 - [Vidu](https://www.vidu.com) - Vidu is Shengshu's AI video generator that creates up to 16-second, 1080p videos from text or images with character consistency for creators.
+- [PixVerse](https://pixverse.ai) - An AI video generator that turns text prompts and images into short video clips for creators.
 
 ## AI Writing Tools
 
@@ -146,6 +148,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Jupiter](https://jup.ag) - A Solana DEX aggregator that routes token swaps across Solana DEXs to find the best price, with limit and DCA orders for traders.
 - [KuCoin](https://www.kucoin.com) - KuCoin is an exchange founded in 2017 offering crypto traders spot and futures trading on 700+ listed tokens.
 - [Crypto.com](https://crypto.com) - Crypto.com is a cryptocurrency exchange and app for buying, selling, and trading 400+ cryptocurrencies, with spot trading and automated trading bots.
+- [Bitstamp](https://www.bitstamp.net) - A long-running regulated cryptocurrency exchange founded in 2011 for buying, selling, and trading crypto.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
