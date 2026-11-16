@@ -56,6 +56,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Gemini Code Assist](https://cloud.google.com/products/gemini-code-assist) - Google's Gemini Code Assist is a free AI coding assistant for VS Code and JetBrains, offering code completion, chat, and code reviews.
 - [Codeium](https://codeium.com) - Codeium is a free AI coding assistant offering code autocomplete and in-editor chat for developers across many editors and languages.
 - [Blackbox AI](https://www.blackbox.ai) - An AI coding assistant that helps developers write, debug, and explain code across many IDEs and the terminal.
+- [GitLab Duo](https://about.gitlab.com/gitlab-duo-agent-platform/) - GitLab Duo is GitLab's AI coding assistant that offers code suggestions, chat, and agents for developers.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -79,6 +80,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Krea](https://www.krea.ai) - An AI creative platform that generates images and videos from text prompts and images using many leading AI models in one subscription, for creators and designers.
 - [Vidu](https://www.vidu.com) - Vidu is Shengshu's AI video generator that creates up to 16-second, 1080p videos from text or images with character consistency for creators.
 - [PixVerse](https://pixverse.ai) - An AI video generator that turns text prompts and images into short video clips for creators.
+- [Lumen5](https://lumen5.com) - Lumen5 is an AI video creator that turns text and blog posts into videos for marketers and social media teams.
 
 ## AI Writing Tools
 
@@ -95,6 +97,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Sudowrite](https://www.sudowrite.com) - An AI writing partner for fiction writers that helps draft, rewrite, and finish novels while keeping their own voice.
 - [Writesonic](https://writesonic.com) - An AI writing platform for marketers and content teams that generates SEO content, blogs, ads, and product descriptions.
 - [Rytr](https://rytr.me) - Rytr is an AI writing assistant that generates marketing copy, emails, blog sections, and product descriptions from 40+ templates, with a free plan.
+- [Frase](https://www.frase.io) - Frase is an AI tool for SEO content research, briefs, and writing for marketers and content teams.
 
 ## AI Meeting Tools
 
