@@ -57,6 +57,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Codeium](https://codeium.com) - Codeium is a free AI coding assistant offering code autocomplete and in-editor chat for developers across many editors and languages.
 - [Blackbox AI](https://www.blackbox.ai) - An AI coding assistant that helps developers write, debug, and explain code across many IDEs and the terminal.
 - [GitLab Duo](https://about.gitlab.com/gitlab-duo-agent-platform/) - GitLab Duo is GitLab's AI coding assistant that offers code suggestions, chat, and agents for developers.
+- [Zencoder](https://zencoder.ai) - An AI coding agent that helps developers and engineering teams write, test, and fix code.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -81,6 +82,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Vidu](https://www.vidu.com) - Vidu is Shengshu's AI video generator that creates up to 16-second, 1080p videos from text or images with character consistency for creators.
 - [PixVerse](https://pixverse.ai) - An AI video generator that turns text prompts and images into short video clips for creators.
 - [Lumen5](https://lumen5.com) - Lumen5 is an AI video creator that turns text and blog posts into videos for marketers and social media teams.
+- [Genmo](https://www.genmo.ai) - An AI video generation platform that turns text prompts and images into video clips for creators.
 
 ## AI Writing Tools
 
@@ -152,6 +154,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [KuCoin](https://www.kucoin.com) - KuCoin is an exchange founded in 2017 offering crypto traders spot and futures trading on 700+ listed tokens.
 - [Crypto.com](https://crypto.com) - Crypto.com is a cryptocurrency exchange and app for buying, selling, and trading 400+ cryptocurrencies, with spot trading and automated trading bots.
 - [Bitstamp](https://www.bitstamp.net) - A long-running regulated cryptocurrency exchange founded in 2011 for buying, selling, and trading crypto.
+- [MEXC](https://www.mexc.com) - A cryptocurrency exchange for spot and futures trading, known for fast listings of new tokens.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
