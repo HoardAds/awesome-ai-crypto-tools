@@ -158,6 +158,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Crypto.com](https://crypto.com) - Crypto.com is a cryptocurrency exchange and app for buying, selling, and trading 400+ cryptocurrencies, with spot trading and automated trading bots.
 - [Bitstamp](https://www.bitstamp.net) - A long-running regulated cryptocurrency exchange founded in 2011 for buying, selling, and trading crypto.
 - [MEXC](https://www.mexc.com) - A cryptocurrency exchange for spot and futures trading, known for fast listings of new tokens.
+- [RugRadar](https://rugradar-bgcm.onrender.com) - A read-only Solana rug and scam checker that returns a 0-100 risk score and red flags for traders and AI agents.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
