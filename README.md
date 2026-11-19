@@ -59,6 +59,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [GitLab Duo](https://about.gitlab.com/gitlab-duo-agent-platform/) - GitLab Duo is GitLab's AI coding assistant that offers code suggestions, chat, and agents for developers.
 - [Zencoder](https://zencoder.ai) - An AI coding agent that helps developers and engineering teams write, test, and fix code.
 - [Antigravity](https://antigravity.google) - Antigravity is Google's agent-first development platform where AI agents work on coding tasks in the background for developers.
+- [Amp](https://ampcode.com) - Amp is an AI coding agent for developers that reads, edits, and runs commands and tests in the terminal and web app.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -85,6 +86,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Lumen5](https://lumen5.com) - Lumen5 is an AI video creator that turns text and blog posts into videos for marketers and social media teams.
 - [Genmo](https://www.genmo.ai) - An AI video generation platform that turns text prompts and images into video clips for creators.
 - [LTX Studio](https://ltx.io/studio) - LTX Studio by Lightricks is an AI filmmaking platform that turns scripts into storyboards and video clips for creators.
+- [Haiper](https://haiper.ai) - Haiper is an AI video generator that turns text prompts and images into short video clips for creators.
 
 ## AI Writing Tools
 
@@ -158,6 +160,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Crypto.com](https://crypto.com) - Crypto.com is a cryptocurrency exchange and app for buying, selling, and trading 400+ cryptocurrencies, with spot trading and automated trading bots.
 - [Bitstamp](https://www.bitstamp.net) - A long-running regulated cryptocurrency exchange founded in 2011 for buying, selling, and trading crypto.
 - [MEXC](https://www.mexc.com) - A cryptocurrency exchange for spot and futures trading, known for fast listings of new tokens.
+- [Bitfinex](https://www.bitfinex.com) - Bitfinex is a cryptocurrency exchange offering spot and derivatives trading for crypto traders.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
