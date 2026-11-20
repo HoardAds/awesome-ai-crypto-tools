@@ -60,6 +60,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Zencoder](https://zencoder.ai) - An AI coding agent that helps developers and engineering teams write, test, and fix code.
 - [Antigravity](https://antigravity.google) - Antigravity is Google's agent-first development platform where AI agents work on coding tasks in the background for developers.
 - [Amp](https://ampcode.com) - Amp is an AI coding agent for developers that reads, edits, and runs commands and tests in the terminal and web app.
+- [Junie](https://www.jetbrains.com/junie/) - Junie is JetBrains' AI coding agent that plans and executes multi-step coding tasks across IDEs, terminals, and CI pipelines.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -87,6 +88,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Genmo](https://www.genmo.ai) - An AI video generation platform that turns text prompts and images into video clips for creators.
 - [LTX Studio](https://ltx.io/studio) - LTX Studio by Lightricks is an AI filmmaking platform that turns scripts into storyboards and video clips for creators.
 - [Haiper](https://haiper.ai) - Haiper is an AI video generator that turns text prompts and images into short video clips for creators.
+- [Higgsfield](https://higgsfield.ai) - Higgsfield offers creators and filmmakers unified access to leading AI video models like Kling, Veo, and Seedance on one platform.
 
 ## AI Writing Tools
 
@@ -161,6 +163,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Bitstamp](https://www.bitstamp.net) - A long-running regulated cryptocurrency exchange founded in 2011 for buying, selling, and trading crypto.
 - [MEXC](https://www.mexc.com) - A cryptocurrency exchange for spot and futures trading, known for fast listings of new tokens.
 - [Bitfinex](https://www.bitfinex.com) - Bitfinex is a cryptocurrency exchange offering spot and derivatives trading for crypto traders.
+- [MoonPay](https://www.moonpay.com) - MoonPay lets anyone buy and sell Bitcoin, Ethereum, and other cryptocurrencies with cards and bank transfers.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
