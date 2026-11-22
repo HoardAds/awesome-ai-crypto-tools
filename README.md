@@ -62,6 +62,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Amp](https://ampcode.com) - Amp is an AI coding agent for developers that reads, edits, and runs commands and tests in the terminal and web app.
 - [Junie](https://www.jetbrains.com/junie/) - Junie is JetBrains' AI coding agent that plans and executes multi-step coding tasks across IDEs, terminals, and CI pipelines.
 - [Codex](https://openai.com/codex) - OpenAI Codex is an AI coding agent that helps developers write, test, and review code directly in their terminal and IDE.
+- [Sourcery](https://www.sourcery.ai) - Sourcery.ai enhances code quality with AI-driven reviews and refactoring for GitHub, GitLab, VS Code, and PyCharm, excelling particularly in Python.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -91,6 +92,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Haiper](https://haiper.ai) - Haiper is an AI video generator that turns text prompts and images into short video clips for creators.
 - [Higgsfield](https://higgsfield.ai) - Higgsfield offers creators and filmmakers unified access to leading AI video models like Kling, Veo, and Seedance on one platform.
 - [D-ID](https://www.d-id.com) - D-ID is an AI video platform that turns text and images into videos with digital avatars for creators and marketers.
+- [Captions](https://captions.ai) - Captions.ai is an AI video editor for creators that adds animated captions, dubs in 30+ languages, corrects eye contact, and edits videos.
 
 ## AI Writing Tools
 
@@ -167,6 +169,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Bitfinex](https://www.bitfinex.com) - Bitfinex is a cryptocurrency exchange offering spot and derivatives trading for crypto traders.
 - [MoonPay](https://www.moonpay.com) - MoonPay lets anyone buy and sell Bitcoin, Ethereum, and other cryptocurrencies with cards and bank transfers.
 - [Arkham](https://arkm.com) - Arkham is a blockchain intelligence platform that uses AI to link wallet addresses to real-world entities for traders, researchers, and investors.
+- [Nansen](https://nansen.ai) - Nansen is a blockchain analytics platform that labels wallets, tracks smart money flows, and delivers token insights across multiple blockchains for crypto traders and investors.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
