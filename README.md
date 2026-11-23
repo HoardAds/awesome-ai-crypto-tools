@@ -95,10 +95,10 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [D-ID](https://www.d-id.com) - D-ID is an AI video platform that turns text and images into videos with digital avatars for creators and marketers.
 - [Captions](https://captions.ai) - Captions.ai is an AI video editor for creators that adds animated captions, dubs in 30+ languages, corrects eye contact, and edits videos.
 - [Colossyan](https://www.colossyan.com) - Colossyan transforms text, documents, and slides into avatar-led training videos in over 120 languages.
+
 ## AI Writing Tools
 
 *Draft, polish and research at machine speed — in your voice.*
-
 
 - [Jasper](https://www.jasper.ai) - An AI writing assistant for marketing copy and long-form content. [Review on HoardAds](https://hoardads.com/jasper-review)
 - [Grammarly](https://www.grammarly.com) - A writing assistant that checks grammar, clarity, and tone.
