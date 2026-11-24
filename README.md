@@ -64,6 +64,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Codex](https://openai.com/codex) - OpenAI Codex is an AI coding agent that helps developers write, test, and review code directly in their terminal and IDE.
 - [Sourcery](https://www.sourcery.ai) - Sourcery.ai enhances code quality with AI-driven reviews and refactoring for GitHub, GitLab, VS Code, and PyCharm, excelling particularly in Python.
 - [Qodo](https://qodo.ai) - Qodo is an AI code quality platform, formerly CodiumAI, offering PR code review, test generation, and IDE assistance for developers and teams.
+- [OpenHands](https://www.openhands.dev) - OpenHands is an open-source AI coding agent platform, formerly OpenDevin, whose agents write code, run commands, and run tests with any LLM via LiteLLM.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -95,6 +96,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [D-ID](https://www.d-id.com) - D-ID is an AI video platform that turns text and images into videos with digital avatars for creators and marketers.
 - [Captions](https://captions.ai) - Captions.ai is an AI video editor for creators that adds animated captions, dubs in 30+ languages, corrects eye contact, and edits videos.
 - [Colossyan](https://www.colossyan.com) - Colossyan transforms text, documents, and slides into avatar-led training videos in over 120 languages.
+- [Pollo AI](https://pollo.ai) - Pollo AI is an all-in-one platform that transforms text prompts and images into videos using Veo, Sora, Kling, and Seedance models.
 
 ## AI Writing Tools
 
@@ -173,6 +175,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Arkham](https://arkm.com) - Arkham is a blockchain intelligence platform that uses AI to link wallet addresses to real-world entities for traders, researchers, and investors.
 - [Nansen](https://nansen.ai) - Nansen is a blockchain analytics platform that labels wallets, tracks smart money flows, and delivers token insights across multiple blockchains for crypto traders and investors.
 - [Dune](https://dune.com) - Dune is a blockchain analytics platform where analysts query on-chain data with SQL and publish dashboards across 100+ chains.
+- [Rabby Wallet](https://rabby.io) - Rabby Wallet is a self-custody wallet by the DeBank team for Ethereum and EVM chains, with automatic chain switching, transaction previews, and risk scanning.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
