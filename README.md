@@ -66,6 +66,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Qodo](https://qodo.ai) - Qodo is an AI code quality platform, formerly CodiumAI, offering PR code review, test generation, and IDE assistance for developers and teams.
 - [OpenHands](https://www.openhands.dev) - OpenHands is an open-source AI coding agent platform, formerly OpenDevin, whose agents write code, run commands, and run tests with any LLM via LiteLLM.
 - [Kilo Code](https://kilo.ai) - Kilo Code is an open-source AI coding agent for VS Code, JetBrains, CLI and cloud, working with 500+ AI models for developers.
+- [Trae](https://www.trae.ai/) - Trae is a ByteDance AI-native desktop IDE based on Visual Studio Code where AI agents plan and edit code from natural language.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -99,6 +100,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Colossyan](https://www.colossyan.com) - Colossyan transforms text, documents, and slides into avatar-led training videos in over 120 languages.
 - [Pollo AI](https://pollo.ai) - Pollo AI is an all-in-one platform that transforms text prompts and images into videos using Veo, Sora, Kling, and Seedance models.
 - [Viggle](https://viggle.ai) - Viggle is an AI video platform that animates character images with motion from reference videos or templates, using its JST-1 model, for creators.
+- [Hedra](https://www.hedra.com/) - Hedra is an AI video platform that creates talking character videos from images, audio and text with lip-sync for creators.
 
 ## AI Writing Tools
 
@@ -179,6 +181,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Dune](https://dune.com) - Dune is a blockchain analytics platform where analysts query on-chain data with SQL and publish dashboards across 100+ chains.
 - [Rabby Wallet](https://rabby.io) - Rabby Wallet is a self-custody wallet by the DeBank team for Ethereum and EVM chains, with automatic chain switching, transaction previews, and risk scanning.
 - [Glassnode](https://glassnode.com) - Glassnode is an on-chain analytics platform providing metrics, charts, and dashboards for cryptocurrency traders, investors, and researchers.
+- [DeBank](https://debank.com) - DeBank is a portfolio tracker for Ethereum and EVM chains that shows wallet balances and DeFi positions across many chains.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
