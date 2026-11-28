@@ -67,6 +67,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [OpenHands](https://www.openhands.dev) - OpenHands is an open-source AI coding agent platform, formerly OpenDevin, whose agents write code, run commands, and run tests with any LLM via LiteLLM.
 - [Kilo Code](https://kilo.ai) - Kilo Code is an open-source AI coding agent for VS Code, JetBrains, CLI and cloud, working with 500+ AI models for developers.
 - [Trae](https://www.trae.ai/) - Trae is a ByteDance AI-native desktop IDE based on Visual Studio Code where AI agents plan and edit code from natural language.
+- [Kiro](https://kiro.dev/ide/) - Kiro is an agentic AI IDE that turns prompts into structured requirements, designs, and sequenced tasks, then executes and verifies code for developers.
 ## AI Video Tools
 
 *Text in, video out — the new creative stack.*
@@ -101,6 +102,7 @@ A curated list of AI and crypto tools, maintained by HoardAds. Full directory an
 - [Pollo AI](https://pollo.ai) - Pollo AI is an all-in-one platform that transforms text prompts and images into videos using Veo, Sora, Kling, and Seedance models.
 - [Viggle](https://viggle.ai) - Viggle is an AI video platform that animates character images with motion from reference videos or templates, using its JST-1 model, for creators.
 - [Hedra](https://www.hedra.com/) - Hedra is an AI video platform that creates talking character videos from images, audio and text with lip-sync for creators.
+- [Tavus](https://www.tavus.io) - Tavus provides APIs and a no-code maker for real-time conversational AI video agents with face, voice, personality, and memory.
 
 ## AI Writing Tools
 
@@ -182,6 +184,7 @@ Muse is Meta's personal AI agent, launched September 8, 2026. It is available in
 - [Rabby Wallet](https://rabby.io) - Rabby Wallet is a self-custody wallet by the DeBank team for Ethereum and EVM chains, with automatic chain switching, transaction previews, and risk scanning.
 - [Glassnode](https://glassnode.com) - Glassnode is an on-chain analytics platform providing metrics, charts, and dashboards for cryptocurrency traders, investors, and researchers.
 - [DeBank](https://debank.com) - DeBank is a portfolio tracker for Ethereum and EVM chains that shows wallet balances and DeFi positions across many chains.
+- [Zerion](https://zerion.io) - Zerion is a crypto wallet for Ethereum, Solana, and DeFi that brings assets, positions, and trades into one portfolio view across 67 chains.
 ## VPN & Privacy Tools
 
 *Mainstream, audited privacy tools — no sketchy freebies.*
